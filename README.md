@@ -6,7 +6,7 @@
 
 ```sh
 $ git clone https://github.com/ashut08/line_sign_in_demo.git
-$ cd fluttergram/
+$ cd line_sign_in_demo/
 ```
 
 #### 3. Setup the line devloper console 
@@ -20,4 +20,15 @@ void main() {
     print("LineSDK Prepared");
   });
   runApp(MyApp());
-}```
+
+}
+```
+
+
+## Demo
+<p>
+<img src="https://raw.githubusercontent.com/ashut08/line_sign_in_demo/main/screenshot/1_12qd4UAUcTufffYgJ4X3qw.gif" alt="feed example" width="250">
+<img src="https://raw.githubusercontent.com/ashut08/line_sign_in_demo/main/screenshot/1_tB759AX2l_WZSLAueThytA.gif" alt="upload photo example" width="250">
+
+
+</p>
