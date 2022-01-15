@@ -10,9 +10,16 @@ $ cd line_sign_in_demo/
 ```
 
 #### 3. Setup the line devloper console 
-I write a blog about this project where you can read setup gide for line devloper console 
+I write a blog about this project where you can read setup guide for line devloper console 
  [Article Link](https://ashuflutterdev.medium.com/flutter-implement-line-singin-in-for-mobile-apps-f64e41831aae)
-### 4.Replace channelid with your channel id in <b>main.dart</b> file
+#### 4. Add line sdk package in <b>pubspec.yaml</b>
+```
+flutter_line_sdk:<latest version>
+
+```
+I write a blog about this project where you can read setup guide for line devloper console 
+ [Article Link](https://ashuflutterdev.medium.com/flutter-implement-line-singin-in-for-mobile-apps-f64e41831aae)
+### 5.Replace channelid with your channel id in <b>main.dart</b> file
 ```
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
