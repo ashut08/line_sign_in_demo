@@ -17,8 +17,6 @@ I write a blog about this project where you can read setup guide for line devlop
 flutter_line_sdk:<latest version>
 
 ```
-I write a blog about this project where you can read setup guide for line devloper console 
- [Article Link](https://ashuflutterdev.medium.com/flutter-implement-line-singin-in-for-mobile-apps-f64e41831aae)
 ### 5.Replace channelid with your channel id in <b>main.dart</b> file
 ```
 void main() {
